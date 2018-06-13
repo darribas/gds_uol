@@ -1,4 +1,4 @@
-FROM darribas/gds
+FROM darribas/gds:6a3d1cc7
 
 USER $NB_UID
 
